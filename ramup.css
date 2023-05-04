@@ -19,3 +19,7 @@ h3 {
 div {
   text-align: center;
 }
+button {
+  color: rgb(245, 0, 171);
+  text-decoration-line: underline;
+}
