@@ -4,9 +4,22 @@ h1.top {
 div.k {
   color: purple;
 }
-div.kk{
+div.kk {
   color: aqua;
 }
-div.kkk{
+div.kkk {
   color: chartreuse;
+}
+div.kkkk {
+  color: blue;
+}
+h3 {
+  text-align: center;
+}
+div {
+  text-align: center;
+}
+button {
+  color: rgb(245, 0, 171);
+  text-decoration-line: underline;
 }
