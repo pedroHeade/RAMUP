@@ -1,0 +1,31 @@
+#screen {
+  background-color: darkgray;
+}
+.spaceTitle {
+  width: 350px;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: x-large;
+  color: blue;
+  font-style: oblique;
+}
+#box {
+  width: 420px;
+  height: 280px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: ghostwhite;
+  border-style: double solid;
+  border-color: green;
+}
+.listTitle {
+  text-align: center;
+  color: purple;
+}
+.listFull {
+  width: 370px;
+  margin-right: auto;
+  margin-left: auto;
+  color: crimson;
+  font-size: large;
+}
