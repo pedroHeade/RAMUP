@@ -1,25 +1,32 @@
-h1.top {
-  color: red;
+dev.pedro/test01
+#screen {
+  background-color: darkgray;
 }
-div.k {
+.spaceTitle {
+  width: 350px;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: x-large;
+  color: blue;
+  font-style: oblique;
+}
+#box {
+  width: 420px;
+  height: 280px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: ghostwhite;
+  border-style: double solid;
+  border-color: green;
+}
+.listTitle {
+  text-align: center;
   color: purple;
 }
-div.kk {
-  color: aqua;
-}
-div.kkk {
-  color: chartreuse;
-}
-div.kkkk {
-  color: blue;
-}
-h3 {
-  text-align: center;
-}
-div {
-  text-align: center;
-}
-button {
-  color: rgb(245, 0, 171);
-  text-decoration-line: underline;
+.listFull {
+  width: 370px;
+  margin-right: auto;
+  margin-left: auto;
+  color: crimson;
+  font-size: large;
 }
