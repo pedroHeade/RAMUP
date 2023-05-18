@@ -1,25 +1,38 @@
-h1.top {
-  color: red;
+#screen {
+  background-color: rgb(97, 206, 69);
 }
-div.k {
+.spaceTitle {
+  width: 350px;
+  display: block 0;
+  margin: auto;
+  margin-left: 520px;
+  font-size: x-large;
+  color: rgb(0, 0, 90);
+  font-style: oblique;
+}
+#box {
+  width: 320px;
+  height: 290px;
+  display: block 0;
+  margin: auto;
+  background-color: rgb(247, 175, 231);
+  border-style: double solid;
+  border-color: rgb(56, 0, 109);
+}
+.listTitle {
+  display: block 0;
+  margin: auto;
+  margin-top: 10px;
+  margin-left: 20px;
   color: purple;
+  font-size: x-large;
+  font-style: normal;
 }
-div.kk {
-  color: aqua;
-}
-div.kkk {
-  color: chartreuse;
-}
-div.kkkk {
-  color: blue;
-}
-h3 {
-  text-align: center;
-}
-div {
-  text-align: center;
-}
-button {
-  color: rgb(245, 0, 171);
+.listFull {
+  width: 370px;
+  margin-right: 650px;
+  margin-left: auto;
+  color: rgb(161, 7, 38);
+  font-size: large;
   text-decoration-line: underline;
 }
