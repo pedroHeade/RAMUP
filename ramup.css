@@ -1,32 +1,39 @@
-dev.pedro/test01
+new.pedro/start
 #screen {
-  background-color: darkgray;
+  background-color: rgb(97, 206, 69);
 }
 .spaceTitle {
   width: 350px;
-  margin-right: auto;
-  margin-left: auto;
+  display: block 0;
+  margin: auto;
+  margin-left: 520px;
   font-size: x-large;
-  color: blue;
+  color: rgb(0, 0, 90);
   font-style: oblique;
 }
 #box {
-  width: 420px;
-  height: 280px;
-  margin-right: auto;
-  margin-left: auto;
-  background-color: ghostwhite;
+  width: 320px;
+  height: 290px;
+  display: block 0;
+  margin: auto;
+  background-color: rgb(247, 175, 231);
   border-style: double solid;
-  border-color: green;
+  border-color: rgb(56, 0, 109);
 }
 .listTitle {
-  text-align: center;
+  display: block 0;
+  margin: auto;
+  margin-top: 10px;
+  margin-left: 20px;
   color: purple;
+  font-size: x-large;
+  font-style: normal;
 }
 .listFull {
   width: 370px;
-  margin-right: auto;
+  margin-right: 650px;
   margin-left: auto;
-  color: crimson;
+  color: rgb(161, 7, 38);
   font-size: large;
+  text-decoration-line: underline;
 }
